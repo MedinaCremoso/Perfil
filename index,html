@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <script type="text/javascript" src="./index.js" defer=""></script>
+    <link rel="stylesheet" href="./index.css">
+    <script type="text/javascript" src="./index.js" defer=""></script>
+    <link rel="stylesheet" href="./index.css">
+  </head>
+
+  <body style="background-color: #000000;">
+    <div class="header">
+      <h1>Medina.</h1>
+    </div>
+    <img src=https://i1.sndcdn.com/artworks-BXugSxIERNzWqoyd-ZCnyCA-t500x500.jpg>
+
+    <div class="content"><span style="color: #8b008b;"> <p>Curto <b>Educação Financeira</b> e amo Jogar Basquete Nas horas Vagas. <b></b> <br>Matheus
+ Medina N°24 2°A TDS <br>
+
+ 
+
+
+
+
+   </p><p>Site criado por Medina - Todos os direitos reservados.</p><p>Footer © 2023 GitHub, Inc. Footer navigation Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog About.</p>
+ </span></div>
+
+
+
+
+
+
+
+    <div class="redes-sociais" <body="">
+      <a href="https://www.instagram.com/matthew_medinna/">
+        <img src="https://i.imgur.com/HVIas2X.png" class="rede-social-img">
+      </a>
+
+      <a href="https://github.com/MedinaCremoso"><img src="https://i.imgur.com/2eiKBKI.png" alt="Youtube" class="rede-social-img">
+      </a>
+      </a>
+      <a href="https://steamcommunity.com/id/xmedinacavalox/">
+        <img src="https://i.imgur.com/Ev2sETt.png" class="rede-social-img">
+
+      </a>
+    </div>
+  </body>
+
+</html>
